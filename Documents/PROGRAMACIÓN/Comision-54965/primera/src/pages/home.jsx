@@ -1,6 +1,6 @@
 import React from 'react';
-import productos from '../json/Products';
 import ItemListContainer from '../components/ItemListContainer';
+import { productos } from '../json/Products';
 
 const Home = () => {
   return (

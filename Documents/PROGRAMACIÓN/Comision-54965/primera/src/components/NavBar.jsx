@@ -31,7 +31,7 @@ function NavBar() {
                 </NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item>
-              <link to='/category/materialEsteril'>Materiales de esterilizado</link>
+              <link to='/category/materialEsteril'>Material esterilizado</link>
               </NavDropdown.Item>
             </NavDropdown>
           </Nav>
